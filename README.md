@@ -2,7 +2,7 @@
 
 **A Proof-of-Concept tool to demonstrate container breakout and privilege escalation in default Google Cloud Workstation configurations.**
 
-> ⚠️ **DISCLAIMER**: This tool is for educational purposes and authorized security assessments only. Use this tool only on systems you own or have explicit permission to test. The author is not responsible for misuse.
+> ⚠️ **DISCLAIMER**: Tested on us-central1-docker.pkg.dev/cloud-workstations-images/predefined/code-oss:latest. Should be applicable to almost every current predefined image. Removing root access and docker cli does not resolve the issue.
 
 ## 🚀 Overview
 
