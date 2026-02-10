@@ -1,5 +1,8 @@
 # GCP Cloud Workstation Breakout PoC
 
+<img width="1470" height="798" alt="Screenshot 2026-02-09 at 4 40 55 PM" src="https://github.com/user-attachments/assets/a534af91-98c6-49a7-83f4-af6cb0dd69a9" />
+
+
 **A Proof-of-Concept tool to demonstrate container breakout and privilege escalation in default Google Cloud Workstation configurations.**
 
 > ⚠️ **DISCLAIMER**: Tested on us-central1-docker.pkg.dev/cloud-workstations-images/predefined/code-oss:latest. Should be applicable to almost every current predefined image. Removing root access and docker cli does not resolve the issue.
